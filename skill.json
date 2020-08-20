@@ -1,0 +1,19 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:489677430393:function:dd7bc652-7b2a-4836-b543-c600afa575c9:Release_0"
+        },
+        "interfaces": []
+      }
+    },
+    "publishingInformation": {
+      "locales": {
+        "es-MX": {
+          "name": "Piropos de albañiles"
+        }
+      }
+    }
+  }
+}

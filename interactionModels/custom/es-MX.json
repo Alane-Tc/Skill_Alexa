@@ -1,0 +1,62 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "piropos de albañiles",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": [
+            "cancelar",
+            "no quiero mas piropos",
+            "no quiero piropos",
+            "adios alexa",
+            "te me cuidas",
+            "bye",
+            "callate",
+            "cancela",
+            "no",
+            "adios"
+          ]
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": [
+            "alexa ayudame",
+            "help",
+            "ayudame",
+            "necesito tu ayuda",
+            "ayuda"
+          ]
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "Piropoalba",
+          "slots": [],
+          "samples": [
+            "jalo",
+            "seduceme",
+            "claro",
+            "simon",
+            "si quiero otro piropo",
+            "si",
+            "alexa decirme un piropo",
+            "piropo",
+            "alexa dime un piropo",
+            "alexa quiero un piropo",
+            "dime un piropo",
+            "quiero un piropo"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "11"
+}
